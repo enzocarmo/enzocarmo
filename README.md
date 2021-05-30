@@ -4,11 +4,11 @@ Meu nome é Enzo ☕
 
 🎓 Sou estudante e no futuro quero ser um desenvolvedor Front-End
 
-![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) Por enquanto minha linguagem preferida é JavaScript :)
+ 🟨 Por enquanto minha linguagem preferida é JavaScript :)
 
 🎮 Além dos estudos em programação, eu gosto de jogar com amigos ou assistir anime
 
-(https://emoji.gg/assets/emoji/7091-zenitsu-cry.png)
+<img src="https://emoji.gg/assets/emoji/7091-zenitsu-cry.png" />
 
 </br>
 
