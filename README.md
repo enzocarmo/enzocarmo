@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá 😄👋
 
-<!--
-**enzocarmo/enzocarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Meu nome é Enzo ☕
 
-Here are some ideas to get you started:
+🎓 Sou estudante e no futuro quero ser um desenvolvedor Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💜 Por enquanto minha linguagem preferida é JavaScript :)
+
+🍔🎮 Além dos estudos em programação, eu gosto de jogar com amigos ou comer hamburger :p
+
+</br>
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/julia-vaz/) ⠀
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=flat-square;for-the-badge&logo=gmail&logoColor=white&link=mailto:hello@juliavaz.me)](mailto:hello@juliavaz.me) 
