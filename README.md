@@ -8,7 +8,7 @@ Meu nome é Enzo ☕
 
 🎮 Além dos estudos em programação, eu gosto de jogar com amigos ou assistir anime
 
-<img src="https://64.media.tumblr.com/53ccd7ebaa83917298c4d65b1c0ae8a7/475261cf78033cf3-94/s540x810/7c49de6342132bab96a2e4c380212478cfb2c867.gifv" />
+<img src="https://media.giphy.com/media/gOnyRejxIPvPUE65HN/giphy.gif" />
 
 </br>
 
