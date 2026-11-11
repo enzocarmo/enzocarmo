@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner-escuro.png">
-    <img src="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner-claro.png" alt="Enzo Carmo, fundador e CEO do Erbe." width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner.png" alt="Enzo Carmo, fundador e CEO do Erbe." width="100%">
 </p>
 
 ## Oi, eu sou o Enzo 👋
