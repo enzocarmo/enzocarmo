@@ -1,30 +1,28 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner-escuro.png">
-    <img src="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner-claro.png" alt="Enzo Carmo, fundador e CEO do Erbe. O Tino, mascote do Erbe, acena e diz: esse é o meu chefe." width="100%">
+    <img src="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner-claro.png" alt="Enzo Carmo, fundador e CEO do Erbe." width="100%">
   </picture>
 </p>
 
-## 👋 Oi, eu sou o Enzo
+## Oi, eu sou o Enzo 👋
 
-Tenho 18 anos e programo desde os 12. Gosto de criar, de inovar e de coisa bem-feita: sou daqueles que alinham o pixel que ninguém ia ver. 😅
+Sou fundador e CEO do [Erbe](https://github.com/erbegestao). Tenho 18 anos, programo desde os 12 e gosto de criar produto novo e bem-feito, com cuidado até no detalhe que quase ninguém repara.
 
-Hoje passo os dias construindo o **[Erbe](https://github.com/erbegestao)**, e fico feliz de conversar com quem toca uma rede de lojas ou gosta de produto bem-feito.
-
-## 🚀 O que estou construindo
+## O que estou construindo 🚀
 
 O **Erbe** é o sistema de organização interna para redes com muitas lojas: supermercados, farmácias e restaurantes com dezenas de unidades e centenas ou milhares de funcionários.
 
-- 💬 Mensagens, avisos e tarefas no lugar do grupo de WhatsApp que ninguém acompanha
-- 🔁 Rotinas, projetos, reuniões e agenda ligados entre si
-- 🤖 O Tino, um agente de IA que mostra tudo antes de fazer
-- 🖥️📱 App de desktop e app de celular
+- Mensagens, avisos e tarefas num lugar só, fora do grupo de WhatsApp
+- Rotinas, projetos, reuniões e agenda ligados entre si
+- O Tino, um agente de IA que mostra tudo antes de fazer
+- App de desktop e app de celular
 
-<p align="center">
+<p>
   <a href="https://github.com/erbegestao"><b>Conheça o Erbe →</b></a>
 </p>
 
-## 🧰 Ferramentas que eu uso
+## Ferramentas 🧰
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0072F0?style=for-the-badge&logoColor=white&logo=typescript" alt="TypeScript">
@@ -42,14 +40,18 @@ O **Erbe** é o sistema de organização interna para redes com muitas lojas: su
   <img src="https://img.shields.io/badge/Codex-0A0A0C?style=for-the-badge" alt="Codex">
 </p>
 
-## ✨ Curiosidades
+## Um pouco mais sobre mim ✨
 
-- 🎂 18 anos, e fundador desde antes de poder alugar um carro
-- ⌨️ Primeira linha de código aos 12
-- 🔍 Perfeccionista assumido: "quase bom" não sai
-- 🤝 Meu time é um humano (eu) e vários agentes de IA
-- 📍 De Goiás para o Brasil inteiro
+- Meu primeiro programa, aos 12, foi um arquivo `.bat` que fingia ser hacker.
+- Trabalho com um time de agentes de IA e reviso tudo o que eles entregam.
+- Fora do código: filmes e séries, esporte e um bom restaurante.
+- Sou de Goiás.
 
-## 📫 Vamos conversar
+## Vamos conversar 📫
 
-[enzo@erbegestao.com.br](mailto:enzo@erbegestao.com.br) · [erbegestao.com.br](https://erbegestao.com.br)
+<p>
+  <a href="mailto:enzo@erbegestao.com.br"><img src="https://img.shields.io/badge/enzo@erbegestao.com.br-0072F0?style=for-the-badge" alt="E-mail: enzo@erbegestao.com.br"></a>
+  <a href="https://instagram.com/enzocarmo_"><img src="https://img.shields.io/badge/Instagram-0A0A0C?style=for-the-badge&logo=instagram&logoColor=9CCBFF" alt="Instagram: enzocarmo_"></a>
+  <a href="https://x.com/oenzocarmo"><img src="https://img.shields.io/badge/X-0A0A0C?style=for-the-badge&logo=x&logoColor=9CCBFF" alt="X: oenzocarmo"></a>
+  <a href="https://erbegestao.com.br"><img src="https://img.shields.io/badge/erbegestao.com.br-0A0A0C?style=for-the-badge" alt="Site: erbegestao.com.br"></a>
+</p>
