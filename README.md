@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner-fundador.png" alt="Enzo Carmo, fundador e CEO do Erbe. Site erbegestao.com.br, e-mail enzo@erbegestao.com.br, X @oenzocarmo, Instagram @enzocarmo_." width="100%">
+  <img src="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner-ceo.png" alt="Enzo Carmo, fundador e CEO do Erbe. E-mail enzo@erbegestao.com.br, site erbegestao.com.br, Instagram @enzocarmo_, X @oenzocarmo. Fundo azul, com anéis e um mosaico de azulejos à direita." width="100%">
 </p>
 
 ## Oi, eu sou o Enzo 👋
 
-Sou fundador e CEO do [Erbe](https://github.com/erbegestao). Tenho 18 anos, programo desde os 12 e gosto de criar produto novo e bem-feito, com cuidado até no detalhe que quase ninguém repara.
+Sou fundador e CEO do [Erbe](https://github.com/erbegestao). Tenho 18 anos, programo desde os 12 e gosto de criar produtos novos e bem-feitos, com cuidado até no detalhe em que quase ninguém repara.
 
 ## O que estou construindo 🚀
 
-O **Erbe** é o sistema de organização interna para redes com muitas lojas: supermercados, farmácias e restaurantes com dezenas de unidades e centenas ou milhares de funcionários.
+O **Erbe**, em construção, é um sistema de organização interna para redes com muitas lojas: supermercados, farmácias e restaurantes com dezenas de unidades e centenas ou milhares de funcionários.
 
 - Mensagens, avisos e tarefas num lugar só, fora do grupo de WhatsApp
 - Rotinas, projetos, reuniões e agenda ligados entre si
@@ -19,7 +19,7 @@ O **Erbe** é o sistema de organização interna para redes com muitas lojas: su
   <a href="https://github.com/erbegestao"><b>Conheça o Erbe →</b></a>
 </p>
 
-## Ferramentas 🧰
+## Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0072F0?style=for-the-badge&logoColor=white&logo=typescript" alt="TypeScript">
@@ -37,18 +37,18 @@ O **Erbe** é o sistema de organização interna para redes com muitas lojas: su
   <img src="https://img.shields.io/badge/Codex-0A0A0C?style=for-the-badge" alt="Codex">
 </p>
 
-## Um pouco mais sobre mim ✨
+## Um pouco mais sobre mim
 
 - Meu primeiro programa, aos 12, foi um arquivo `.bat` que fingia ser hacker.
 - Trabalho com um time de agentes de IA e reviso tudo o que eles entregam.
 - Fora do código: filmes e séries, esporte e um bom restaurante.
 - Sou de Goiás.
 
-## Vamos conversar 📫
+## Vamos conversar
 
 <p>
-  <a href="mailto:enzo@erbegestao.com.br"><img src="https://img.shields.io/badge/enzo@erbegestao.com.br-0072F0?style=for-the-badge" alt="E-mail: enzo@erbegestao.com.br"></a>
-  <a href="https://instagram.com/enzocarmo_"><img src="https://img.shields.io/badge/Instagram-0A0A0C?style=for-the-badge&logo=instagram&logoColor=9CCBFF" alt="Instagram: enzocarmo_"></a>
-  <a href="https://x.com/oenzocarmo"><img src="https://img.shields.io/badge/X-0A0A0C?style=for-the-badge&logo=x&logoColor=9CCBFF" alt="X: oenzocarmo"></a>
+  <a href="mailto:enzo@erbegestao.com.br"><img src="https://img.shields.io/badge/E--mail-0072F0?style=for-the-badge" alt="E-mail: enzo@erbegestao.com.br"></a>
   <a href="https://erbegestao.com.br"><img src="https://img.shields.io/badge/erbegestao.com.br-0A0A0C?style=for-the-badge" alt="Site: erbegestao.com.br"></a>
+  <a href="https://www.instagram.com/enzocarmo_/"><img src="https://img.shields.io/badge/Instagram-0A0A0C?style=for-the-badge&logo=instagram&logoColor=9CCBFF" alt="Instagram: enzocarmo_"></a>
+  <a href="https://x.com/oenzocarmo"><img src="https://img.shields.io/badge/X-0A0A0C?style=for-the-badge&logo=x&logoColor=9CCBFF" alt="X: oenzocarmo"></a>
 </p>
