@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner.png" alt="Enzo Carmo, fundador e CEO do Erbe. Site erbegestao.com.br, e-mail enzo@erbegestao.com.br, X @oenzocarmo, Instagram @enzocarmo_." width="100%">
+  <img src="https://raw.githubusercontent.com/enzocarmo/enzocarmo/main/img/banner-enzo-carmo.png" alt="Enzo Carmo, fundador e CEO do Erbe. Site erbegestao.com.br, e-mail enzo@erbegestao.com.br, X @oenzocarmo, Instagram @enzocarmo_." width="100%">
 </p>
 
 ## Oi, eu sou o Enzo 👋
